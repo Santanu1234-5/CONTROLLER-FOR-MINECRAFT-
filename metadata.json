@@ -1,0 +1,6 @@
+{
+  "name": "Minecraft BT Controller",
+  "description": "Turns your Android device into an offline Bluetooth HID keyboard and mouse controller for Minecraft on PC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
